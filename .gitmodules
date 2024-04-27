@@ -1,0 +1,12 @@
+[submodule "git_intro"]
+	path = git_intro
+	url = https://github.com/irynajevaga/git_intro.git
+[submodule "git-branch"]
+	path = git-branch
+	url = https://github.com/irynajevaga/git-branch.git
+[submodule "learning_git"]
+	path = learning_git
+	url = https://github.com/irynajevaga/learning_git.git
+[submodule "Demo-Fork"]
+	path = Demo-Fork
+	url = https://github.com/irynajevaga/Demo-Fork.git
